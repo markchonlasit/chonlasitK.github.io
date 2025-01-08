@@ -1,10 +1,10 @@
-![Profile](photo/6530200088.jpg)
+
 
 # 6530200088.github.io
 - Chonlasit Kijkulpichet
   - Mark
- 
 
+![Profile](photo/6530200088.jpg)
 
 
 [Tranposition](tranposition.md)
@@ -31,10 +31,13 @@
 **Certificate**
 
 
-![TestDome certificate: Java . ](photo/javacertificate.png)
+![TestDome certificate: Java . ](photo/certificate.pdf)
 TestDome certificate: Java .
 
+![MATHWORKS certificate : MATLAP Onramp . ](photo/certificate(1).pdf)
+MATHWORKS certificate : MATLAP Onramp . 
 
-![TestDome certificate: Java . ](photo/javacertificate.png)
-TestDome certificate: Java .
+
+![MATHWORKS certificate : Introduction to Statistical Methods with MATLAB . ](photo/javacertificate.png)
+MATHWORKS certificate : Introduction to Statistical Methods with MATLAB . 
 
