@@ -35,11 +35,11 @@
 
 
 
-![MATHWORKS certificate : MATLAP Onramp . ](photo/certificate.pdf)
+[MATHWORKS certificate : MATLAP Onramp . ](photo/certificate.pdf)
 
 
 
-![MATHWORKS certificate : Introduction to Statistical Methods with MATLAB . ](photo/certificate02.pdf)
+[MATHWORKS certificate : Introduction to Statistical Methods with MATLAB . ](photo/certificate02.pdf)
 
 
 
