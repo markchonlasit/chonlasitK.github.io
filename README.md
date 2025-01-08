@@ -1,4 +1,4 @@
-![Profile](photo/6530200088.jpeg)
+![Profile](photo/6530200088.jpg)
 
 # 6530200088.github.io
 - Chonlasit Kijkulpichet
