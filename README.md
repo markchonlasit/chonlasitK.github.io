@@ -32,12 +32,15 @@
 
 
 ![TestDome certificate: Java . ](photo/javacertificate.png)
-TestDome certificate: Java .
+
+
 
 ![MATHWORKS certificate : MATLAP Onramp . ](photo/certificate.pdf)
-MATHWORKS certificate : MATLAP Onramp . 
+
+
 
 
 ![MATHWORKS certificate : Introduction to Statistical Methods with MATLAB . ](photo/certificate02.pdf)
-MATHWORKS certificate : Introduction to Statistical Methods with MATLAB . 
+
+
 
