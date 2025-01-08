@@ -22,7 +22,7 @@
 
 [ > Busniess DATA course in salesforce 2024 . ](https://www.canva.com/design/DAGTixvZj1I/sMhumihDHyHiEApiXLOUwQ/edit)
 
-[ > salesforce 2024 Profile . ](https://www.salesforce.com/trailblazer/b0eaydqg0shmdlwcmo)
+[ > salesforce Profile 2024 . ](https://www.salesforce.com/trailblazer/b0eaydqg0shmdlwcmo)
 
 [ > Project SA course 2024 . ](https://drive.google.com/file/d/1BtBPHHMuRVBfTjDihgh-iqbO_OHgMJGi/view)
 
