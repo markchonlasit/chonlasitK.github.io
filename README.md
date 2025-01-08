@@ -18,15 +18,17 @@
 
 **PROJECT**
 
-[ > Project ComPro course use C++ 2023 . ]()
+[ > Project ComPro course use C++ 2023 . ](https://drive.google.com/drive/folders/122ocS3-HD-NAftlw6yKVYrmQFU_x5wvk)
 
-[ > Project AI course topic of object detection using YOLOv5 2024 . ]()
+[ > Project AI course topic of object detection using YOLOv5 2024 . ](https://colab.research.google.com/drive/1hRJlCDvDuMALCEa2_PLdJ4BU5yyAdzG_?usp=sharing)
 
-[ > Busniess DATA course in salesforce 2024 . ]()
+[ > Busniess DATA course in salesforce 2024 . ](https://www.canva.com/design/DAGTixvZj1I/sMhumihDHyHiEApiXLOUwQ/edit)
 
-[ > Project SA course 2024 . ]()
+[ > salesforce 2024 Profile . ](https://www.salesforce.com/trailblazer/b0eaydqg0shmdlwcmo)
 
-[ > Project Next.js 2024 . ]()
+[ > Project SA course 2024 . ](https://drive.google.com/file/d/1BtBPHHMuRVBfTjDihgh-iqbO_OHgMJGi/view)
+
+[ > Project Next.js 2024 . ](https://github.com/markchonlasit/Project-Next.js-2024)
 
 **Certificate**
 
