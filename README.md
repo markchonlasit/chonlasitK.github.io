@@ -30,8 +30,7 @@
 
 **Certificate**
 
-![Certificate of Achievement Winner of MakeX Thailand 2020 Competition . ](makex.png)
-Winner of MakeX Thailand 2020 Competition .
+
 
 ![TestDome certificate: Java . ](javacertificate.png)
 TestDome certificate: Java .
