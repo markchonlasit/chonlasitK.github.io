@@ -38,6 +38,6 @@ TestDome certificate: Java .
 MATHWORKS certificate : MATLAP Onramp . 
 
 
-![MATHWORKS certificate : Introduction to Statistical Methods with MATLAB . ](photo/certificate(1).pdf)
+![MATHWORKS certificate : Introduction to Statistical Methods with MATLAB . ](photo/certificate02.pdf)
 MATHWORKS certificate : Introduction to Statistical Methods with MATLAB . 
 
