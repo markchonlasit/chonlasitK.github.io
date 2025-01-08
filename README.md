@@ -1,5 +1,3 @@
-
-
 # chonlasitproject.github.io
 - Chonlasit Kijkulpichet
   - Mark
