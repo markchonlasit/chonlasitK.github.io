@@ -32,6 +32,6 @@
 
 
 
-![TestDome certificate: Java . ](javacertificate.png)
+![TestDome certificate: Java . ](photo/javacertificate.png)
 TestDome certificate: Java .
 
