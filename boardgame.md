@@ -2,7 +2,7 @@
 
 GROUP " ก๊อง V3 "
 
-![photo](boardgame_photo.jpg)
+![photo](photo/boardgame_photo.jpg)
 
 เมื่อวันที่ 7 มกราคม 2568 ที่ผ่านมา ณ เวลา 14.00 น. ที่โรงอาหาร มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตศรีราชา 
 
