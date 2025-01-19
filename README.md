@@ -13,6 +13,8 @@
 
 [Validity](validity.md)
 
+[Boardgame](boardgame.md)
+
 
 **PROJECT**
 
