@@ -12,8 +12,14 @@
 
 
 [6530200525 นายสิทธิกร ประทุมวัน](https://6530200525.github.io/boardgame)
+
 [6530200762 นายภูริณัฐ เอกพงศ์ประดิษฐ์](https://6530200762.github.io/cyberbg)
-[6530250093 ธนพัฒน์ อุไรวงษ์](https://friday1313.github.io/cyberboardgame)
+
 [6530200835 สรสิช ปัญญางค์](https://bossmahob.github.io/cyberboardgame)
+
+[6530250093 ธนพัฒน์ อุไรวงษ์](https://friday1313.github.io/cyberboardgame)
+
 [6530250166 นายพิชานัต พรหมณี](https://naieric.github.io/cyberboardgame)
+
 [6530250395 นายธนบดี บุญสุข](https://realalunda.github.io/cyberboardgame)
+
