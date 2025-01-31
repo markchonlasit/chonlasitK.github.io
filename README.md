@@ -30,6 +30,8 @@
 
 [ > Project Next.js 2024 . ](https://github.com/markchonlasit/Project-Next.js-2024)
 
+[ > Project k-nearest-neighbors (Knn) 2024 . ](https://colab.research.google.com/drive/1drzmM0VNBNpTERnQiK_Ep1YJRlZNEItS?usp=sharing)
+
 **Certificate**
 
 
