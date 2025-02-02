@@ -20,6 +20,8 @@
 
 [ > Project ComPro course use C++ 2023 . ](https://drive.google.com/drive/folders/122ocS3-HD-NAftlw6yKVYrmQFU_x5wvk)
 
+[ > Project Power Bi 2024 . ](photo/projectpowerbi/jpg)
+
 [ > Project AI course topic of object detection using YOLOv5 2024 . ](https://colab.research.google.com/drive/1hRJlCDvDuMALCEa2_PLdJ4BU5yyAdzG_?usp=sharing)
 
 [ > Busniess DATA course in salesforce 2024 . ](https://www.canva.com/design/DAGTixvZj1I/sMhumihDHyHiEApiXLOUwQ/edit)
