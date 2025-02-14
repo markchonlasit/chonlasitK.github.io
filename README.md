@@ -1,6 +1,8 @@
 # chonlasitK.github.io
 - Chonlasit Kijkulpichet
   - Mark
+  - 
+กำลังศึกษาอยู่ชัั้นปีที่ 3 มหาวิทยาลัยเกษศาสตร์ วิทยาเขตศรีราชา คณะวิทยาศาสตร์ สาขา วิทยาการคอมพิวเตอร์
 
 ![Profile](photo/6530200088.jpg)
 
