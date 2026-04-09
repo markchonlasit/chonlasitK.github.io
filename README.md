@@ -1,17 +1,14 @@
 # chonlasitK.github.io
-- Chonlasit Kijkulpichet
-  - Mark
-  - 
-กำลังศึกษาอยู่ชัั้นปีที่ 3 มหาวิทยาลัยเกษศาสตร์ วิทยาเขตศรีราชา คณะวิทยาศาสตร์ สาขา วิทยาการคอมพิวเตอร์
+ชื่อ ชลสิทธิ์ กิจกุลพิเชฐ Chonlasit Kijkulpichet
+ชื่อเล่น มาร์ค Mark
+อายุ 22
+มหาวิทยาลัยเกษศาสตร์ วิทยาเขตศรีราชา คณะวิทยาศาสตร์ สาขา วิทยาการคอมพิวเตอร์
 
 ![Profile](photo/6530200088.jpg)
 
-
 [Tranposition](tranposition.md)
 
-
 [E-card](ecardChristmas.md)
-
 
 [Validity](validity.md)
 
@@ -35,6 +32,10 @@
 [ > Project Next.js 2024 . ](https://github.com/markchonlasit/Project-Next.js-2024)
 
 [ > Project k-nearest-neighbors (Knn) 2025 . ](https://colab.research.google.com/drive/1drzmM0VNBNpTERnQiK_Ep1YJRlZNEItS?usp=sharing)
+
+[ > CTM Project 2025 . ]([https://colab.research.google.com/drive/1drzmM0VNBNpTERnQiK_Ep1YJRlZNEItS?usp=sharing](https://canva.link/j37p259ax80yccd))
+
+[ > Safety Audit Application 2025 . ]([https://colab.research.google.com/drive/1drzmM0VNBNpTERnQiK_Ep1YJRlZNEItS?usp=sharing](https://canva.link/nerm5yejrjk81oe))
 
 **Certificate**
 
